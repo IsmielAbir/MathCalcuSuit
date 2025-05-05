@@ -1,5 +1,9 @@
 # MathCalcUSuit
 
+[![PyPI version](https://img.shields.io/pypi/v/mathcalcusuit.svg)](https://pypi.org/project/mathcalcusuit/)
+[![Python version](https://img.shields.io/pypi/pyversions/mathcalcusuit.svg)](https://pypi.org/project/mathcalcusuit/)
+
+
 **MathCalcUSuit** is a Python package that provides a suite of basic math operations. It includes functions for:
 
 - Checking if a number is prime
